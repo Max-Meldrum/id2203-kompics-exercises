@@ -4,6 +4,10 @@ Add the scala exercise file to ``src/main/scala/se/kth/edx/id2203/templates`` an
 
 ### Requirements
 
+**Operating System**
+
+The exercises only run on Linux and OSX environments.
+
 **sbt**
 
 You will need to install sbt in order to run.
